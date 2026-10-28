@@ -5,5 +5,5 @@ import {
 
 import {
     id = "vpc-02d7ebc0e1fd2feeb"
-    to= aws_vpc.test
+    to= aws_vpc.test1
 }
